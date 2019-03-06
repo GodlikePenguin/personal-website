@@ -1,6 +1,9 @@
 layout: sidebar
 style: dark
 
+social_media:
+  linkedin: edward-dobson-ba028b14a
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
